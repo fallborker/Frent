@@ -14,10 +14,6 @@ A high-performance, low-memory, archetype-based <a href="docs/ecf.md">ECF/ECS</a
 
 <p align="justify">
 While Frent's implementation is a hybrid archetype and sparse-set ECS, that's not why Frent was made. Frent is primarily an ECF that lets you use composition for code reuse rather than inheritance with minimal boilerplate. Write components that include behavior, lifetime management, and events while enjoying all the performance benefits of an ECS.
-
-
-
-
 </p>
 
 <p align="center">

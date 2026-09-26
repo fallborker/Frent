@@ -37,7 +37,7 @@ Finally, you simply need to add the following block to your `<project>.csproj` f
 ```
 
 > [!WARNING]
-> Mind your OS directory separator. Windows uses backslahes, whereas Unix systems like Linux and MacOS uses forward slases.
+> Mind your OS directory separator. Windows uses backslashes, whereas Unix systems like Linux and MacOS uses forward slashes.
 
 Finally, simply run `dotnet build` to get started!
 
